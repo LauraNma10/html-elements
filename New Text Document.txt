@@ -1,0 +1,8 @@
+Director
+manager
+Assistant
+Cashier
+Accountant
+Receptionist
+Workers
+Cleaners
